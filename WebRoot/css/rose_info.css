@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+.block{float: left;overflow: hidden;margin-top:10px;margin-left:20px;}
+.block a{text-decoration: none;color: #83847E;font-family: Microsoft YaHei;}
+.span{font-family: Microsoft YaHei;font-size: 15px;color: #83847E;line-height: 45px;}
+.roseDiv{border-bottom:3px solid #83847E;width:935px;height:450px;float:left;}
+.roseMessage{float:right;margin-right:80px;margin-top:60px;color:#41414B;width:200px;}
+.roseNum{line-height:40px;}
+.roseMessage label{font-size:25px;line-height: 50px;}
+.count{line-height:30px;}
+.count img{vertical-align: middle;}
+#num{width: 20px;text-align: center;}
+.btn1,.btn2{width:90px;height:30px;border:1px solid #83847E;}
+.btn1:hover,.btn2:hover{background-color: #414141;color:#FFF;cursor: pointer;}
+.btn1{background:#83847E;margin-top:20px;margin-right:7px;color:#FFFFFF;}
+.btn1:hover,.btn2:hover{background:#414141;}
+.btn2{background:#FAFAFA;color:#83847E;}
+.roseDiv2{display: table-cell;border-top:1px solid #83847E;width:935px;float:left;margin-top:5px;}
+table:nth-child(2n+1){float:left;width:935px;background:#F9F9F9;}
+.zs-font-eg{font-size:15px;display:block;}
+.zs-font-tit{font-weight:bold;display:block;margin-bottom:15px;}

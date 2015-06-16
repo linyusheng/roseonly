@@ -1,0 +1,11 @@
+@charset "utf-8";
+/*顶部导航栏*/
+body{ padding: 0px; margin: 0px; border: 0; font-family: Helvetica, "Helvetica Neue", "Century Gothic", "微软雅黑", "Microsoft Yahei", "STXihei";}
+.bar{height: 40px;line-height:40px;background-color: #5579BA;margin-bottom: 10px;}
+.bar .pull-left{margin-left: 65px;}
+.bar a {float:left;text-decoration: none; display: block; text-decoration: none; color: #fff; border: 1px solid #6787c1; -webkit-transition: all 0.2s; -moz-transition: all 0.2s; -o-transition: all 0.2s; -ms-transition: all 0.2s; transition: all 0.2s; padding: 0px 1.5em; border-top: none; border-bottom: none; outline: none;}
+.bar a:hover{background: #6b8ac3;}
+
+.input-group {margin:0 auto;width: 264px;margin-bottom: 10px;}
+.input-group:last-child {margin-bottom: 0;}
+.modal{overflow: hidden;}

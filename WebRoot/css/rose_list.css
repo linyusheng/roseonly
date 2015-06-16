@@ -1,0 +1,15 @@
+@charset "utf-8";
+.block{float: left;overflow: hidden;margin-top:10px;margin-left:20px;}
+.block a{text-decoration: none;color: #83847E;font-family: Microsoft YaHei;}
+.span{margin-left: 10px;font-family: Microsoft YaHei;font-size: 15px;color: #83847E;line-height: 45px;}
+.li{float: left;margin-left: 15px;margin-bottom: 15px;width: 450px;height: 220px;background-color:#FAFAFA;position:relative;}
+.lazy{position:absolute;width: 300px;height: 220px;Z-index:0;}
+.btn{float:right;margin-top:60px;}
+label{margin-right:20px;font-size:25px;}
+.btn1,.btn2{width:100px;height:35px;display:block;margin-right:20px;border:1px solid #83847E;}
+.btn1:hover,.btn2:hover{background-color: #414141;color:#FFF;cursor: pointer;}
+.btn1{background:#83847E;margin-top:20px;margin-bottom:8px;color:#FFFFFF;}
+.btn1:hover,.btn2:hover{background:#414141;}
+.btn2{background:#FAFAFA;color:#83847E;} 
+.coll{width:450px;height: auto;background-color:#000;FILTER:alpha(opacity=60);opacity:0.2;-moz-opacity:0.2;position:absolute;left:0px;bottom:0px;}
+.coll_text{	width:450px;height:auto;float:left;	padding:10px;color:#FFF;font-size:14px;line-height: 100%;}

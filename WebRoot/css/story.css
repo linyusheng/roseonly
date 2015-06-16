@@ -1,0 +1,47 @@
+﻿@charset "utf-8"; 
+
+/**真爱故事*/
+.reallove_content{width:800px; margin:20px auto 0; border-bottom:solid 1px #414141;}
+.reallove_content img{ border:0;}
+.reallove_img{margin:0 auto 20px;}
+.star_love_img{display:block; border:0; margin:0 auto 20px;}
+.reallove_ul{width:820px; margin:0; padding:0; list-style:none;}
+.reallove_ul li{width:390px; height:290px; float:left; margin:0 20px 20px 0;}
+/**.star_love{width:800px; height:290px; margin:0 auto 20px;}
+.star_love_left{width:320px; height:200px; line-height:30px; padding-top:90px; background:#fff; font-size:14px; text-align:center; float:left;}
+.reallove_ul_font{width:390px; height:70px; text-align:center; background:#fff; font-size:14px; color:#424242; padding-top:20px;}*/
+
+
+/**明星故事*/
+.reallove_xq{width:800px; float:left; border-bottom:solid 1px #414141; padding:20px 0;}
+.reallove_divimg{width:380px; float:left;}
+.reallove_xqimg{display:block; float:left;}
+.reallove_xqfont{width:380px; text-align:left; float:right; color:#424242; font-size:12px; line-height:20px;}
+.star_name{font-size:14px;}
+.star_name font{font-size:25px; line-height:40px;}
+.star_all{text-decoration:underline; color:#424242;}
+.story_most{width:800px; height:40px; line-height:40px; display:block; cursor:pointer; color:#424242; font-size:14px; clear:both;}
+.star_all1{width:800px; height:40px; line-height:40px; display:block; cursor:pointer; color:#424242; font-size:14px; clear:both;text-align:right;}
+.reallove_xqul{width:800px; float:left; list-style:none; margin:0; padding:0;}
+.reallove_xqul li{width:390px; height:270px; float:left; margin:0 10px 20px 0;}
+.reallove_xqul_font{width:155px; text-align:left; float:right; color:#424242; font-size:12px;}
+
+
+/**真爱故事详细*/
+.reallove_xqstory{width:380px; height:330px; text-align:left; float:right; color:#424242; font-size:12px; line-height:20px;}
+.reallove_xqsl{height:70px; float:left; margin-left:20px;}
+.reallove_xqslimg{width:70px; height:70px; display:block; float:left; margin-right:10px;}
+.reallove_story{width:800px; float:left; list-style:none; margin:0; padding:0;}
+.reallove_story li{width:200px; height:260px; float:left; margin-bottom:20px;}
+.reallove_story_font{width:200px; height:60px; line-height:20px; text-align:left; font-size:12px; padding-top:10px; color:#424242;}
+.font{font-size:22px; line-height:40px;}
+
+
+.story{ width:962px; margin:0 auto;}
+
+/**品牌故事*/
+.story_bg{display:block; width:960px; height:450px;}
+.story-centent{background-color:#f5f5f5; float:left; margin-bottom:30px;}
+.story-font{width:760px; margin:80px 100px 0; font-size:14px; color:#414141; text-align:center; line-height:30px;}
+.story-font p{margin-bottom:70px;}
+

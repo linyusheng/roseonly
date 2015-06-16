@@ -1,0 +1,20 @@
+.container .recMain{margin-bottom:10px;overflow:hidden;width: 962px;border-top:1px dashed #E8E8E8;padding-top:30px;}
+.tbl-main{float:left;width:100%;font-size:20px;line-height:35px;}
+#content{margin-left:350px;width:600px;}
+.i-text{width:300px;font-size:15px;padding-left:10px;padding-top:7px;}
+.clearfix:after{content:"";display:block;clear:both;visibility:hidden;height:0}
+textarea:disabled,textarea[disabled],textarea[disabled=disabled],textarea.disabled{width:366px;height:100px;border:1px solid #E8E8E8;padding-left:10px;padding-top:7px;font-size:15px;}
+.form-box .item-warp{position:relative;display:inline-block;_zoom:1;*display:inline;border:1px solid #E8E8E8;width:375px;height:30px;}
+.form-box .item{position:relative;padding-bottom:10px;zoom:1;text-align:left;z-index:100;float:left;clear:both;}
+.form-box .item-label{display:inline;float:left;margin-left:-105px;text-align:left;height:26px;line-height:26px}
+.form-box .item-label i{color:red;font-style:normal;margin:0 auto;}
+.btn{width:100px;margin-left:90px;margin-top:10px;display:inline-block;zoom:1;height:28px;line-height:28px;padding:0 20px;color:#FFF;font-size:18px;text-align:center;background:#83847E;border:0;cursor:pointer}
+
+i{font-style:normal;}
+.liststyle span{position:relative;height:36px;line-height:36px;display:inline-block;border:1px solid #E8E8E8;border-radius:5px;padding:0 0 0 8px;cursor:pointer;background:white;float:left;margin-right:9px;margin-bottom:10px;}
+.liststyle span i{display:inline-block;height:36px;line-height:36px;padding-right:30px;position:relative;}
+.liststyle span i:after{content:"";display:block;width:20px;height:36px;position:absolute;right:0;top:0;background-repeat:no-repeat;background-position:0 center;background-size:10px auto;}
+.liststyle span ul{width:100%;border-radius:0 0 5px 5px;position:absolute;border:1px solid #E8E8E8;background:white;left:-1px;top:36px;border-top:0;margin-bottom:10px;display:none;z-index:10000;}
+.liststyle span ul li{width:100%;float:left;overflow:hidden;border-top:1px solid #E8E8E8;}
+.liststyle span ul li:first-child{border-top:0;}
+.liststyle span ul li a{display:block;height:36px;line-height:36px;padding:0 8px;color:#494949;}

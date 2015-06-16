@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+.title{border-bottom:3px solid #83847E;}
+.img{margin-left:451px;}
+.content{margin-top:3px;border-top:1px solid #83847E;border-bottom:3px solid #83847E;padding-bottom:50px;}
+.order{padding:40px 100px 0 100px;}
+.order ul{background:#E8E8E8;width:100%;display:table;margin-bottom:30px;}
+.order ul li{display:table-cell;float:left;width:190px;line-height:40px;list-style:none;text-align:center;}
+.order a{text-decoration: none;color:#414141}
+.orderMess{float:left;font-size:18px;line-height:30px;}
+.order table{margin-top:10px;margin-bottom:35px;}
+.active_li{background:#83847e; }
+.active_li a{color:#fff;}
+
+.myshopping{font-size:22px;color:#41485D;}
+.clearshopping{float:right;font-size:15px;color:#41485D;}
+table{width:952px;border-top:1px solid #83847E;border-bottom:1px solid #83847E;text-align:center;}
+.shopping_cart_title td{height:35px;border-bottom:1px solid #83847E;}
+.img1{display:block;float:left;margin: 10px 15px 10px 10px;}
+.shopping_name{display: table-cell;padding-top: 60px;text-align: left;}
+#num{width:60px;border:1px solid;text-align:center;}
+table a{color:#414141;}
+.totalDiv{float:right;margin-top:20px;}
+.total{font-size:20px;display:block;margin-left:65px;color:#414141;}
+.btn1,.btn2{width:100px;height:30px;font-size:18px;border:1px solid #83847E;margin-top:10px;}
+.btn1:hover,.btn2:hover{color:#FFF;cursor: pointer;}
+.btn1{background:#414141;margin-right:7px;color:#FFFFFF;}
+.btn2{background:#C30B0B;color:#FFF;}
+.help{padding:40px 100px 0 100px;margin-top:50px;}
+.help span{color:#414141;font-size:18px;}
+.help p{font-size:12px;line-height:25px;}
+.help a{color:#0000EF;}
+.footer{margin-top:3px;border-top:1px solid #83847E;width:1152px;}
+.footer img{margin-right:50px;}
+.icon-cell{float:right;margin-right:95px;margin-top:30px;width:110px;display:block;display: table-cell;color:#414141;}
+.QR-small{padding:20px 0 0 100px;}
+
+/*user_info.jsp*/
+.userinfo table{padding:20px 0 20px 0;}
+.userinfo table tr{height:50px;}
+.userinfo table tr td:FIRST-CHILD{width:300px;text-align:right;}
+.userinfo table tr td input{float:left;margin:0 10px 0 30px;width:260px;height:30px;border: 1px solid #83847E;padding-left:5px;}
+.userinfo table tr td input[type='submit']{height:32px;background:#83847E;color:#fff;font-size:16px;outline: none;cursor: pointer;; }
+.userinfo table tr td span{float:left;line-height:30px;color:red;}
+
+
+
+
+
+
